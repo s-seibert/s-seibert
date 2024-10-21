@@ -1,5 +1,4 @@
-## 2024 👋
-![Stephen's Stats](https://github-readme-stats.vercel.app/api?username=s-seibert&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 <!--
 **s-seibert/s-seibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
